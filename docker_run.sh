@@ -1,0 +1,1 @@
+docker run --name aikit_xtts -d -it -p 9999:9999 --restart=always  aikit 

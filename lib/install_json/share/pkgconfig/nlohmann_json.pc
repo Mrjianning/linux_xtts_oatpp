@@ -1,0 +1,4 @@
+Name: nlohmann_json
+Description: JSON for Modern C++
+Version: 3.11.3
+Cflags: -I/home/ljn/project/rtsp_opencv_gpu_server/lib/install_json/include
